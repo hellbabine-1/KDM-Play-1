@@ -20,7 +20,7 @@ Anonymous survivors: 6
 | Kroos | -1/0/0/0/0 | | Mere navi, will probably stay home |
 | Zachary | 0/1/0/0/0 | | |
 | Spot | 0/0/0/0/0 |Sync Strike | | 
-| Erza | | Orator of deaht, Synch strike | |
+| Erza | 0/0/0/0/0 | Orator of deaht, Synch strike | |
 | Hellagur | 0/0/0/0/0 | | Pulled the lantern sword from Open Maw |  
 |---|---|---|---|---
 | 6xAnnon | 0/0/0/0/0 | | | |
