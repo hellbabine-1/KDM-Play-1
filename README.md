@@ -15,12 +15,12 @@ Anonymous survivors: 6
 
 |Name|Acc/Str/Eva/Luck/Speed|FA|Note|Death
 |---|---|---|---|---|
-|Lucy| -1/1/0/0/0 | | |
+|Lucy| -1/1/0/0/0 | | | Died from Plague
 |Allister | 0/0/0/0/0 | | | Killed by PrologueDog
-| Kroos | -1/0/0/0/0 | | Mere navi, will probably stay home |
-| Zachary | 0/1/0/0/0 | | |
-| Spot | 0/0/0/0/0 |Sync Strike | | 
-| Erza | | Orator of deaht, Synch strike | |
-| Hellagur | 0/0/0/0/0 | | Pulled the lantern sword from Open Maw |  
+| Kroos | -1/0/0/0/0 | | Mere navi, will probably stay home | Died from Plague
+| Zachary | 0/1/0/0/0 | | Is the twillight sword guy for the settlement |
+| Spot | 0/1/0/0/0 |Sync Strike, orator of death, (rageholic) | | 
+| Erza | | Orator of deaht, Synch strike | |Died from Plague
+| Hellagur | 0/0/0/0/0 | | Pulled the lantern sword from Open Maw | Died from Plague
 |---|---|---|---|---
 | 6xAnnon | 0/0/0/0/0 | | | |
