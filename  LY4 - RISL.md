@@ -29,6 +29,6 @@ She got the sleeping flower virus. We set out for the FK, we're gonna need to fi
 
 No endeavor to innovate this year, and the event wipe almost all my ressource... -5 from pariah, and with 10 left, hands of heat destroyed another 5. So i've got 1 bone, organ, hide left (to innovate next year), and 2 love juices. 
 
-I don't really have much to craft. She depart with full (2) survival, Screaming horn, rawhide vest, rawhide glove, rawhide boots, scab bow, lantern sword, grease, virus flower and luck charm. She got binge eating and flower addiction, and an intestinal prolapse. 
+I don't really have much to craft. She depart with full (2) survival, Screaming horn, rawhide vest, rawhide glove, rawhide boots, scab bow, lantern sword, grease, virus flower and luck charm. She got binge eating and flower addiction, RedFist and an intestinal prolapse. 
 
 
